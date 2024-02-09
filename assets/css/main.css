@@ -73,6 +73,7 @@ section {
 .section-header {
   text-align: center;
   padding-bottom: 30px;
+
 }
 
 .section-header h2 {
@@ -1488,7 +1489,7 @@ section {
   background-size: cover;
   position: relative;
   min-height: 60vh;
-  padding: 160px 0 60px 0;
+  padding: 40px 0 40px 0;
 }
 
 .hero h2 {
